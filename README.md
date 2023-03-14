@@ -2,4 +2,4 @@
 
 chrome extention
 =========================
-serfer -- to view search frequency of a keyword in a locality
+surfer -- to view search frequency of a keyword in a locality
