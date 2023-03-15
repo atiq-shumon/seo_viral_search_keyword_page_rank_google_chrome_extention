@@ -13,7 +13,8 @@ surfer -- to view search frequency of a keyword in a locality
 - remove unnecessary pages
 - remove unnecessary blogposts
 - setting --files -- remove unnecessary files 
-
+- set meta tag
+- image alter tag
 
 Keyword search toos
 ---------------------
