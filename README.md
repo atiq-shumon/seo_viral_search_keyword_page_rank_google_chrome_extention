@@ -3,3 +3,20 @@
 chrome extention
 =========================
 surfer -- to view search frequency of a keyword in a locality
+
+[IL]
+
+[All SEO apps](https://github.com/atiq-shumon/Shopify-dev-ecommerce-free-outsour/tree/main/Apps)
+
+[PC]
+
+- remove unnecessary pages
+- remove unnecessary blogposts
+- setting --files -- remove unnecessary files 
+
+
+Keyword search toos
+---------------------
+- ubersuggest
+- keyword revealer
+- 
