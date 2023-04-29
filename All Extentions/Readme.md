@@ -8,32 +8,43 @@
 
 #### [Youtube Video Downloader](https://www.youtube.com/watch?v=eC18IgD3N0A&ab_channel=Shopify%2B%2B)
 
-Image downloader Chrome extention
-======================================
-Image Downloader v3.3.3
+## Image downloader Chrome extension
+- Image Downloader v3.3.3
 
-### Browser Extentions:
-====================================================================================
+### Browser Extensions:
+
 ##### Todo List and Notes Related
-[Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) || [TodoList chrome](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh) || []()
+- [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
+- [TodoList chrome](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh)
 
 ##### Screen Capture
-###### Loom Video recorder || Lightshot || [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) || [WebClipper](https://chrome.google.com/webstore/detail/notebook-web-clipper/cneaciknhhaahhdediboeafhdlbdoodg) || [Remove Image Background](https://www.remove.bg/)
+- Loom Video recorder
+- Lightshot
+- [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)
+- [WebClipper](https://chrome.google.com/webstore/detail/notebook-web-clipper/cneaciknhhaahhdediboeafhdlbdoodg)
+- [Remove Image Background](https://www.remove.bg/)
+
 ##### CSS Related
-###### CSSVeiwer, Whatfont, Eyedropper ,[GetColor](https://chrome.google.com/webstore/de...)
+- CSSVeiwer
+- Whatfont
+- Eyedropper
+- [GetColor](https://chrome.google.com/webstore/de...)
 
-###### Weava Highlighter - https://chrome.google.com/webstore/de...
-###### Currency Converter PRO - https://chrome.google.com/webstore/de...
-###### Momentum - https://chrome.google.com/webstore/de...
+##### Other Useful Tools
+- Weava Highlighter - https://chrome.google.com/webstore/de...
+- Currency Converter PRO - https://chrome.google.com/webstore/de...
+- Momentum - https://chrome.google.com/webstore/de...
+
 ### Tutorial Capture Related
-###### [Picture-in-Picture capture youtube video in another tab while learning](https://chrome.google.com/webstore/detail/picture-in-picture-for-ch/ekoomohieogfomodjdjjfdammloodeih)
-###### Trim for Netflix - https://chrome.google.com/webstore/de...
+- [Picture-in-Picture capture youtube video in another tab while learning](https://chrome.google.com/webstore/detail/picture-in-picture-for-ch/ekoomohieogfomodjdjjfdammloodeih)
+- Trim for Netflix - https://chrome.google.com/webstore/de...
 
-#### Loom Video recorder
+## Loom Video Recorder
 
-### remote accessing tools
+### Remote Accessing Tools
+- AnyDesk
+- VNC Viewer
 
-Any desk **** vncviewer *** 
 
 ### Few More
 -------------------
