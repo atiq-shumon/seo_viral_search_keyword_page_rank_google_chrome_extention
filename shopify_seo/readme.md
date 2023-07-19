@@ -1,3 +1,6 @@
+
+[youtube link](https://www.youtube.com/watch?v=fcyRmFBp9IU)
+
 Indexing is an essential process for ensuring that your Shopify website's content is discovered and displayed in search engine results. By following certain technical SEO practices, you can optimize your website for indexing and improve its visibility. Here's a step-by-step guide to the indexing process for a Shopify website:
 
 1. Set up Google Search Console: Google Search Console is a free tool provided by Google that helps you monitor and optimize your website's presence in Google search results. Verify your website ownership and submit your sitemap to Google Search Console. This allows Google to discover and index your website more effectively.
