@@ -4,6 +4,8 @@ Google Keyword Planner
 
 Semrush 
 
+kwfinder.com
+
 Ahrefs
 
 Google Trends
