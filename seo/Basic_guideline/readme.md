@@ -3,7 +3,8 @@
 
 If your website is associated with a country that is different from the country of the person performing the search, you could argue it's not that relevant.
 
-![image](https://github.com/atiq-shumon/seo_viral_search_keyword_page_rank_google_chrome_extention_produc_tools/assets/21005669/fb261f6a-6e34-410a-8e97-318b5c216540)
+![image](https://github.com/atiq-shumon/seo_viral_search_keyword_page_rank_google_chrome_extention_produc_tools/assets/21005669/559744f5-4a1d-4fc0-9703-260f2549b113)
+
 
 ### Section #2 --- Picking a Hosting Provider
 
