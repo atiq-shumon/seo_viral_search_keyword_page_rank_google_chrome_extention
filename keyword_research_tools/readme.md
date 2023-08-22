@@ -8,7 +8,7 @@ kwfinder.com
 
 Ahrefs
 
-Google Trends
+[Google Trends](https://trends.google.com/)
 
 G-Trendalyser 
 
