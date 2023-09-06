@@ -1,5 +1,5 @@
 
-[youtube link](https://www.youtube.com/watch?v=fcyRmFBp9IU) || [Shopify Apps](https://github.com/atiq-shumon/Shopify-dev-ecommerce-free-outsour/tree/main/Apps)
+[youtube link](https://www.youtube.com/watch?v=fcyRmFBp9IU) || @@@ [Shopify Apps](https://github.com/atiq-shumon/Shopify-dev-ecommerce-free-outsour/tree/main/Apps)
 
 Indexing is an essential process for ensuring that your Shopify website's content is discovered and displayed in search engine results. By following certain technical SEO practices, you can optimize your website for indexing and improve its visibility. Here's a step-by-step guide to the indexing process for a Shopify website:
 
