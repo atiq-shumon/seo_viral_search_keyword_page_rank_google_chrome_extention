@@ -10,6 +10,8 @@ https://keywordtool.io/
 
 Ahrefs
 
+https://contentforest.com/
+
 [Google Trends](https://trends.google.com/)
 
 G-Trendalyser 
