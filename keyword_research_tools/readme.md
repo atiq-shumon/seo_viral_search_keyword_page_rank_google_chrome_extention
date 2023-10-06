@@ -6,6 +6,8 @@ Semrush
 
 kwfinder.com
 
+https://keywordtool.io/
+
 Ahrefs
 
 [Google Trends](https://trends.google.com/)
