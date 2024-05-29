@@ -10,6 +10,8 @@
 
 #### [Youtube Video Downloader](https://www.youtube.com/watch?v=eC18IgD3N0A&ab_channel=Shopify%2B%2B)
 
+[Youtube Transcript](https://glasp.co/welcome/transcript)
+
 ## Image downloader Chrome extension
 - Image Downloader v3.3.3
 
