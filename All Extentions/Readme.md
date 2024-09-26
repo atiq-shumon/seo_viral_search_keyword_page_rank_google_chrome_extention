@@ -56,5 +56,7 @@ Here are a few more useful websites and tools to enhance productivity:
 6. **Remove Image Background**: [Remove.bg](https://www.remove.bg/)
 7. **Professional Stock Images**: [Pexels](https://www.pexels.com/)
 
+##### Todo List and Notes Related
+[Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) || [TodoList chrome](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh) || []()
 
 
