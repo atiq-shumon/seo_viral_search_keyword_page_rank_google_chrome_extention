@@ -27,6 +27,7 @@
 - [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)
 - [WebClipper](https://chrome.google.com/webstore/detail/notebook-web-clipper/cneaciknhhaahhdediboeafhdlbdoodg)
 - [Remove Image Background](https://www.remove.bg/)
+- [Sharex - for screen capture and sharing ](https://getsharex.com/)
 
 ##### CSS Related
 - CSSVeiwer
