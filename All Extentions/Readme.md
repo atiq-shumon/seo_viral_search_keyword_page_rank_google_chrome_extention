@@ -1,4 +1,3 @@
-```md
 # Useful Tools and Extensions
 
 ## Productivity and AI Tools
@@ -61,6 +60,5 @@ Here are a few more useful websites and tools to enhance productivity:
 6. **Remove Image Background**: [Remove.bg](https://www.remove.bg/)
 7. **Professional Stock Images**: [Pexels](https://www.pexels.com/)
 
-```
 
-This version has clearer organization, consistent headings, and professional formatting that makes it easy to navigate and read. Let me know if you'd like to make any further adjustments!
+
