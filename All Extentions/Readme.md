@@ -13,8 +13,6 @@
 - [Watch Video Tutorial](https://www.youtube.com/watch?v=eC18IgD3N0A&ab_channel=Shopify%2B%2B)
 - [YouTube Transcript](https://glasp.co/welcome/transcript)
 
-## Browser Extensions
-
 ### Image Downloaders
 - **Image Downloader v3.3.3** - A convenient tool for downloading images directly from the web.
 
