@@ -1,65 +1,66 @@
-[IL]
+```md
+# Useful Tools and Extensions
 
-[Productivity Tips](https://github.com/atiq-shumon/Prod-tools-health-exer-meet-life-skills-medi-comm-inspi-leader-succ-yog-cele-nego-deba-mind-subcon/blob/main/README.md)
+## Productivity and AI Tools
 
-[ChatGpt Tools](https://github.com/atiq-shumon/Chat_gpt_prompt_engineering_ai_chatgpt/tree/main/ChatGpt_Tools)  **@ @ @ [AI tools](https://github.com/atiq-shumon/Chat_gpt_Bing_bard_prompt_engineering_ai_chatgpt_claude_cursor_ai/tree/main/%F0%9F%98%80%F0%9F%98%80ai_tools)**
+- [Productivity Tips](https://github.com/atiq-shumon/Prod-tools-health-exer-meet-life-skills-medi-comm-inspi-leader-succ-yog-cele-nego-deba-mind-subcon/blob/main/README.md)
+- [ChatGPT Tools](https://github.com/atiq-shumon/Chat_gpt_prompt_engineering_ai_chatgpt/tree/main/ChatGpt_Tools)  
+- [AI Tools](https://github.com/atiq-shumon/Chat_gpt_Bing_bard_prompt_engineering_ai_chatgpt_claude_cursor_ai/tree/main/%F0%9F%98%80%F0%9F%98%80ai_tools)
 
-[PC]
+## YouTube Tools
 
-## Youtube Video Downloader
+### YouTube Video Downloader
 
-#### [Youtube Video Downloader](https://www.youtube.com/watch?v=eC18IgD3N0A&ab_channel=Shopify%2B%2B)
+- [Watch Video Tutorial](https://www.youtube.com/watch?v=eC18IgD3N0A&ab_channel=Shopify%2B%2B)
+- [YouTube Transcript](https://glasp.co/welcome/transcript)
 
-[Youtube Transcript](https://glasp.co/welcome/transcript)
+## Browser Extensions
 
-## Image downloader Chrome extension
-- Image Downloader v3.3.3
+### Image Downloaders
+- **Image Downloader v3.3.3** - A convenient tool for downloading images directly from the web.
 
-### Browser Extensions:
-
-##### Todo List and Notes Related
+### Task Management and Notes
 - [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
-- [TodoList chrome](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh)
+- [Todoist Chrome Extension](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh)
 
-##### Screen Capture
-- Loom Video recorder
-- Lightshot
+### Screen Capture Tools
+- **Loom** - Video recording for tutorials and presentations.
+- **Lightshot** - Simple screen capture and sharing tool.
 - [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)
-- [WebClipper](https://chrome.google.com/webstore/detail/notebook-web-clipper/cneaciknhhaahhdediboeafhdlbdoodg)
-- [Remove Image Background](https://www.remove.bg/)
-- [Sharex - for screen capture and sharing ](https://getsharex.com/)
+- [WebClipper](https://chrome.google.com/webstore/detail/notebook-web-clipper/cneaciknhhaahhdediboeafhdlbdoodg) - Clip content for future reference.
+- [Remove Image Background](https://www.remove.bg/) - Fast image background removal tool.
+- [ShareX](https://getsharex.com/) - Advanced screen capture and sharing.
 
-##### CSS Related
-- CSSVeiwer
-- Whatfont
-- Eyedropper
-- [GetColor](https://chrome.google.com/webstore/de...)
+### CSS and Design Tools
+- **CSSViewer** - Inspect CSS properties on web elements.
+- **WhatFont** - Identify fonts used on a webpage.
+- **Eyedropper** - Get the exact color from any webpage.
+- [GetColor](https://chrome.google.com/webstore/detail/getcolor/...)
 
-##### Other Useful Tools
-- Weava Highlighter - https://chrome.google.com/webstore/de...
-- Currency Converter PRO - https://chrome.google.com/webstore/de...
-- Momentum - https://chrome.google.com/webstore/de...
+### Additional Useful Tools
+- [Weava Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter/...) - Highlight and organize web content.
+- [Currency Converter PRO](https://chrome.google.com/webstore/detail/currency-converter/...) - Quick currency conversions.
+- [Momentum](https://chrome.google.com/webstore/detail/momentum/...) - Personal dashboard and new tab page for productivity.
 
-### Tutorial Capture Related
-- [Picture-in-Picture capture youtube video in another tab while learning](https://chrome.google.com/webstore/detail/picture-in-picture-for-ch/ekoomohieogfomodjdjjfdammloodeih)
-- Trim for Netflix - https://chrome.google.com/webstore/de...
+### Tutorial Capture and Learning
+- [Picture-in-Picture for YouTube](https://chrome.google.com/webstore/detail/picture-in-picture-for-ch/ekoomohieogfomodjdjjfdammloodeih) - Learn while watching videos in a floating window.
+- [Trim for Netflix](https://chrome.google.com/webstore/detail/trim-netflix/...)
 
-## Loom Video Recorder
+## Remote Access Tools
+- **AnyDesk** - Fast and secure remote desktop access.
+- **VNC Viewer** - Cross-platform remote desktop access.
 
-### Remote Accessing Tools
-- AnyDesk
-- VNC Viewer
+## More Tools for Productivity
+Here are a few more useful websites and tools to enhance productivity:
 
+1. **Time and Date Calculations**: [Time and Date](https://www.timeanddate.com/)
+2. **Easy Poll Creation**: [Polls.io](https://polls.io/)
+3. **Background Sound & White Noise**: [Noises.online](https://noises.online/)
+4. **Focused Writing**: [Squibler](https://www.squibler.io/dangerous-wri...)
+5. **Amazon Deal Finder**: [CamelCamelCamel](https://camelcamelcamel.com/)
+6. **Remove Image Background**: [Remove.bg](https://www.remove.bg/)
+7. **Professional Stock Images**: [Pexels](https://www.pexels.com/)
 
-### Few More
--------------------
 ```
-00:00 Website criteria for this list
-00:30 Time and Date Calculations - https://www.timeanddate.com/
-02:09 Easy Polls - https://polls.io/
-03:48 Background Sound & White Noise - https://noises.online/
-05:51 Focused Writing - https://www.squibler.io/dangerous-wri...
-09:08 Amazon Deal Finder - https://camelcamelcamel.com/
-11:32 Remove Image Background - https://www.remove.bg/
-13:24 Professional Stock Images - https://www.pexels.com/
-```
+
+This version has clearer organization, consistent headings, and professional formatting that makes it easy to navigate and read. Let me know if you'd like to make any further adjustments!
