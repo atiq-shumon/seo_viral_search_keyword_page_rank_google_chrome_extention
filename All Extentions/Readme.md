@@ -2,7 +2,7 @@
 
 [Productivity Tips](https://github.com/atiq-shumon/Prod-tools-health-exer-meet-life-skills-medi-comm-inspi-leader-succ-yog-cele-nego-deba-mind-subcon/blob/main/README.md)
 
-[ChatGpt Tools](https://github.com/atiq-shumon/Chat_gpt_prompt_engineering_ai_chatgpt/tree/main/ChatGpt_Tools)
+[ChatGpt Tools](https://github.com/atiq-shumon/Chat_gpt_prompt_engineering_ai_chatgpt/tree/main/ChatGpt_Tools)  **@ @ @ [ChatGPT tools](https://github.com/atiq-shumon/Chat_gpt_Bing_bard_prompt_engineering_ai_chatgpt_claude_cursor_ai/tree/main/%F0%9F%98%80%F0%9F%98%80ai_tools)**
 
 [PC]
 
