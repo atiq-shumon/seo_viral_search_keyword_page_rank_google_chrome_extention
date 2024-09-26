@@ -6,8 +6,6 @@
 - [ChatGPT Tools](https://github.com/atiq-shumon/Chat_gpt_prompt_engineering_ai_chatgpt/tree/main/ChatGpt_Tools)  
 - [AI Tools](https://github.com/atiq-shumon/Chat_gpt_Bing_bard_prompt_engineering_ai_chatgpt_claude_cursor_ai/tree/main/%F0%9F%98%80%F0%9F%98%80ai_tools)
 
-## YouTube Tools
-
 ### YouTube Video Downloader
 
 - [Watch Video Tutorial](https://www.youtube.com/watch?v=eC18IgD3N0A&ab_channel=Shopify%2B%2B)
